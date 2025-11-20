@@ -9,7 +9,7 @@ Welcome to an interactive educational game that helps you master binary and deci
 
 Before you begin, make sure you have:
 - A computer with Java installed
-- **MARS** (MIPS Assembler and Runtime Simulator) - [Download here]([http://courses.missouristate.edu/KenVollmar/mars/](https://dpetersanderson.github.io/))
+- **MARS** (MIPS Assembler and Runtime Simulator) - [Download here(https://dpetersanderson.github.io/)]
 - All 6 game files in the same directory:
   - `main.asm`
   - `conversion.asm`
